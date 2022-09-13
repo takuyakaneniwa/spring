@@ -1,6 +1,6 @@
 package com.example.spring.repository;
 
-import org.springframework.data.repository.CrudRepository;
+import com.example.spring.entity.Quiz;
 
 public interface QuizRepository {
 
